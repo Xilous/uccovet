@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Track these
+!.gitignore
+!*.py
